@@ -8,7 +8,7 @@
 I like Naruto because it teaches me about friendship,
 hard work, courage, and never giving up.
 
-#### My Favorite Character
+### My Favorite Character
 - Naruto Uzumaki
 - Sasuke Uchiha
 - Kakashi Hatake
